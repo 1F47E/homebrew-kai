@@ -5,7 +5,7 @@ class Kai < Formula
   desc "Chat GPT cli tool written in Rust"
   homepage "https://github.com/kaspar1ndustries/kai"
   url "https://github.com/kaspar1ndustries/kai/releases/download/v0.1.0/kai.tar.gz"
-  sha256 "0cb7f8993a67d434f52af7db15be4addc5e0e11593668c757a944af6fba5b909"
+  sha256 "fe0907b2e2eb14729f4f98c05c46635f1476be27cfdea6689f90f772a088cb91"
   version "0.1.0"
 
   def install
